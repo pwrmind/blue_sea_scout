@@ -1,4 +1,4 @@
-# Blue Sea Scout 🚀
+# 🌊 Blue Sea Scout 🏄‍♂️
 
 <div align="center">
 
