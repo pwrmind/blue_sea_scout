@@ -1,0 +1,20 @@
+{
+  "min_price": 500,
+  "max_price": 15000,
+  "min_reviews": 1,
+  "max_reviews": 500,
+  "base_fee": 0.15,
+  "base_tax": 0.06,
+  "base_logistics": 60.0,
+  "target_roi": 0.15,
+  "risk_free_rate": 0.08,
+  "ai_weight": 0.5,
+  "roi_weight": 0.4,
+  "risk_weight": 0.1,
+  "normalization_method": "z-score",
+  "train_test_split": 0.8,
+  "n_folds": 5,
+  "random_seed": 42,
+  "heatmap_resolution": 30,
+  "color_map": "viridis"
+}
